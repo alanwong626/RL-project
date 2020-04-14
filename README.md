@@ -8,6 +8,8 @@ Agent is now learning and the output of the training is logged into a csv file.
 To do:
 1) Refactor and modularize the code
 2) Include a jupyter notebook for data visualization
+3) Upload environment
+4) Update instructions
 
 
 Update 03/4:
